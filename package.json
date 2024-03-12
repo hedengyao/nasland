@@ -1,1 +1,10 @@
-
+{
+  "name": "nasland",
+  "version": "0.9.10",
+  "dependencies": {
+    
+  },
+  "scripts": {
+    "start": "node server.js -b 0.0.0.0"
+  }
+}
